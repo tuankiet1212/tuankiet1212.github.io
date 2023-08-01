@@ -29,8 +29,8 @@ body {
 
   /* Colors */
   --text-inverse: #fff;
-  --border-secondary: #000;
   --color-mediumseagreen: #55bc7e;
+  --border-secondary: #000;
   --color-gainsboro-200: #d3e8e1;
   --color-gainsboro-100: #d9d9d9;
   --background-default: #eeedee;
@@ -73,7 +73,7 @@ body {
   --padding-92xl: 111px;
 
   /* border radiuses */
-  --br-6xl: 25px;
+  --br-8xl: 27px;
   --br-4xl: 23px;
   --br-81xl: 100px;
   --br-481xl: 500px;

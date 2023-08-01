@@ -530,37 +530,6 @@
   width: 99px;
   height: 205px;
 }
-.home-child11,
-.home-child12,
-.home-child13,
-.home-child14,
-.home-child15 {
-  position: absolute;
-  top: calc(50% + 1301.5px);
-  left: calc(50% - 354px);
-  border-radius: var(--br-6xl);
-  background-color: var(--color-mediumseagreen);
-  width: 68px;
-  height: 68px;
-}
-.home-child12,
-.home-child13,
-.home-child14,
-.home-child15 {
-  top: calc(50% + 1497.5px);
-}
-.home-child13,
-.home-child14,
-.home-child15 {
-  top: calc(50% + 1399.5px);
-}
-.home-child14,
-.home-child15 {
-  top: calc(50% + 1595.5px);
-}
-.home-child15 {
-  top: calc(50% + 1693.5px);
-}
 .design-student-at {
   position: absolute;
   top: 310px;
@@ -568,6 +537,40 @@
   font-size: var(--font-size-2xs);
   line-height: 20px;
   color: var(--border-secondary);
+}
+.home-child11,
+.home-child12,
+.home-child13,
+.home-child14,
+.home-child15 {
+  position: absolute;
+  top: 3276px;
+  left: 450px;
+  border-radius: var(--br-8xl);
+  background-color: var(--color-mediumseagreen);
+  width: 66px;
+  height: 48px;
+}
+.home-child12,
+.home-child13,
+.home-child14,
+.home-child15 {
+  top: 3374px;
+  left: 449px;
+}
+.home-child13,
+.home-child14,
+.home-child15 {
+  top: 3474px;
+  left: 451px;
+}
+.home-child14,
+.home-child15 {
+  top: 3574px;
+  left: 449px;
+}
+.home-child15 {
+  top: 3674px;
 }
 .fb,
 .gmail,
@@ -596,8 +599,8 @@
 }
 .ins,
 .twi {
-  top: 3584px;
-  left: 466px;
+  top: 3589px;
+  left: 469px;
 }
 .twi {
   top: 3686px;
